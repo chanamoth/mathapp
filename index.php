@@ -5,7 +5,7 @@ Mostrar errores
 =============================================*/
 ini_set('display_errors', 1);
 ini_set("log_errors", 1);
-ini_set("error_log",  "D:/xampp/htdocs/studiomutante/mathapp/php_error_log");
+ini_set("error_log",  "C:/laragon/www/mathapp/php_error_log");
 
 /*=============================================
 Requerimientos
